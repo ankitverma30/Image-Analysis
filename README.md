@@ -40,7 +40,7 @@ During my path to study about Image Analysis I found lot of problem in rememberi
 ![alt homepage](https://github.com/ankitverma30/Image-Analysis/blob/master/Thresholding.png)
 
 ### Coding for thresholding in python
-![alt homepage](https://github.com/ankitverma30/Image-Analysis/blob/master/Thresholding.ipynb)
+Present Above
 
 ### Clustering
 ![alt homepage](https://github.com/ankitverma30/Image-Analysis/blob/master/Clustering%20(1).png)
